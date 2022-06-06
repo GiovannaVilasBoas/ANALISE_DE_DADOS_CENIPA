@@ -17,12 +17,13 @@ Análise de Dados sobre Acidentes Aéreos Ocorridos no Brasil de 2010 a 2019 apl
 
 ## Autores
 
-2219108129 André Vieira de Souza/n
-1419105145 Arison dos Santos Andrade/n
-2219107309 Matheus Galvão Felix da Silva/n
-2219106719 João Victor Silva Firmino Soares/n
-2219201054 Giovanna Vilas Boas Coelho/n
-2219106054 Lucas Teles da Silva/n
+
+2219108129 André Vieira de Souza <br />
+1419105145 Arison dos Santos Andrade <br />
+2219107309 Matheus Galvão Felix da Silva <br />
+2219106719 João Victor Silva Firmino Soares <br />
+2219201054 Giovanna Vilas Boas Coelho <br />
+2219106054 Lucas Teles da Silva <br />
 
 _______________
 
